@@ -1,8 +1,5 @@
-If
-Thomas H. Cormen: Professor of Computer Science
+# HTML
 
-Jon Kleinberg
+## An underrated Mark-up Language
 
-Donald E. Knuth
-
-have portfolio websites without css, who am I to say am above such traditions
+Most popular in web development but still under use and UI Frameworks like Material UI and others want to actually take it out by providing means of writting HTML without actually writing HTML.
